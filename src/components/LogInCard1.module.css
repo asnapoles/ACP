@@ -1,0 +1,289 @@
+.shape1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 48.29px;
+  background-color: var(--color-gray-300);
+  box-shadow: 20.3px 22px 15.25px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(75.41px);
+  opacity: 0.9;
+}
+.ggcheckR,
+.shape {
+  margin: 0 !important;
+  position: absolute;
+}
+.shape {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: -0.5px;
+  bottom: 0;
+  left: 0.5px;
+}
+.ggcheckR {
+  width: 24px;
+  height: 24px;
+  bottom: 148px;
+  left: 78.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.acpFloridaChapterLogo4cLa {
+  align-self: stretch;
+  height: 108.8px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.label12 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 5px 4px rgba(0, 0, 0, 0.25) inset;
+}
+.label11 {
+  height: 69px;
+  width: 381px;
+  position: relative;
+  max-width: 100%;
+}
+.label1,
+.usuario {
+  align-items: center;
+}
+.usuario {
+  width: 67px;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 58px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-xl) 0;
+  box-sizing: border-box;
+  font-family: var(--font-nunito);
+  font-weight: 700;
+  font-size: var(--font-size-lgi-2);
+  color: var(--color-gray-100);
+  z-index: 1;
+  margin-left: -349px;
+}
+.label1 {
+  flex: 1;
+  justify-content: flex-start;
+}
+.label1,
+.user,
+.userWrapper {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.user {
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.userWrapper {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+}
+.label22 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 5px 4px rgba(0, 0, 0, 0.25) inset;
+}
+.label21 {
+  height: 69px;
+  width: 381px;
+  position: relative;
+  max-width: 100%;
+}
+.contrasea,
+.label2,
+.pass {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.contrasea {
+  width: 104px;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 58px;
+  justify-content: center;
+  padding: var(--padding-xl) 0;
+  box-sizing: border-box;
+  font-family: var(--font-nunito);
+  font-weight: 700;
+  font-size: var(--font-size-lgi-2);
+  color: var(--color-gray-100);
+  z-index: 1;
+  margin-left: -349px;
+}
+.label2,
+.pass {
+  max-width: 100%;
+}
+.label2 {
+  flex: 1;
+  justify-content: flex-start;
+}
+.pass {
+  align-self: stretch;
+  justify-content: center;
+  z-index: 1;
+}
+.recordarContrasea1 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-lgi-2);
+  letter-spacing: -0.33px;
+  line-height: 17.6px;
+  font-family: var(--font-nunito);
+  color: var(--color-dimgray);
+  text-align: center;
+}
+.recordarContrasea {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.buttonFrame,
+.userFrame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.userFrame {
+  width: 256px;
+  height: 18px;
+  flex-direction: row;
+  padding: 0 var(--padding-7xl);
+  box-sizing: border-box;
+}
+.buttonFrame {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-6xl);
+  max-width: 100%;
+}
+.botonChild {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xl);
+  background-color: var(--color-forestgreen);
+  box-shadow: 0 8px 6px rgba(0, 0, 0, 0.25);
+}
+.button {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  font-family: var(--font-nunito);
+  color: var(--color-white);
+  text-align: center;
+  z-index: 1;
+}
+.boton,
+.logInCard,
+.userImage {
+  display: flex;
+  align-items: center;
+}
+.boton {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mini) var(--padding-33xl) var(--padding-sm)
+    var(--padding-29xl);
+  background-color: transparent;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+}
+.logInCard,
+.userImage {
+  width: 421px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-31xl);
+  max-width: 100%;
+}
+.logInCard {
+  width: 527px;
+  padding: var(--padding-31xl) var(--padding-27xl) var(--padding-32xl)
+    var(--padding-28xl);
+  position: relative;
+  gap: var(--gap-97xl);
+  z-index: 1;
+  margin: -890px 0 0;
+}
+@media screen and (max-width: 675px) {
+  .logInCard {
+    padding-top: var(--padding-31xl);
+    padding-bottom: var(--padding-14xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 625px) {
+  .logInCard {
+    gap: var(--gap-39xl);
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+    width: calc(100% - 40px);
+  }
+}
+@media screen and (max-width: 450px) {
+  .button {
+    font-size: var(--font-size-lgi);
+    line-height: 18px;
+  }
+  .userImage {
+    gap: var(--gap-6xl);
+  }
+  .logInCard {
+    gap: var(--gap-10xl);
+  }
+}

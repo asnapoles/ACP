@@ -1,0 +1,23 @@
+.login,
+.loginFrame {
+  display: flex;
+  align-items: center;
+}
+.loginFrame {
+  height: 1117px;
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.login {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  letter-spacing: normal;
+}

@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-nunito: Nunito;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-lgi-2: 19.2px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-forestgreen: #56af31;
+  --color-dimgray: #757070;
+  --color-gray-100: #918b8b;
+  --color-gray-200: rgba(0, 0, 0, 0.1);
+  --color-gray-300: rgba(255, 255, 255, 0.8);
+  --color-gainsboro: #d9d9d9;
+
+  /* Gaps */
+  --gap-97xl: 116px;
+  --gap-39xl: 58px;
+  --gap-10xl: 29px;
+  --gap-31xl: 50px;
+  --gap-6xl: 25px;
+
+  /* Paddings */
+  --padding-31xl: 50px;
+  --padding-27xl: 46px;
+  --padding-32xl: 51px;
+  --padding-28xl: 47px;
+  --padding-4xl: 23px;
+  --padding-14xl: 33px;
+  --padding-xl: 20px;
+  --padding-mini: 15px;
+  --padding-33xl: 52px;
+  --padding-sm: 14px;
+  --padding-29xl: 48px;
+  --padding-7xl: 26px;
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-3xl: 22px;
+  --br-11xl: 30px;
+  --br-29xl-3: 48.3px;
+}
