@@ -1,0 +1,27 @@
+.solarcalendarBrokenIcon {
+  height: 28px;
+  width: 28px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.name1 {
+  position: relative;
+  letter-spacing: -0.33px;
+  line-height: 17.6px;
+}
+.calendario,
+.name {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.calendario {
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+  text-align: left;
+  font-size: var(--font-size-lgi-2);
+  color: var(--color-gray-100);
+  font-family: var(--font-nunito);
+}

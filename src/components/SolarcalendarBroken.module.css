@@ -1,0 +1,17 @@
+.groupIcon {
+  position: absolute;
+  height: 81.43%;
+  width: 83.21%;
+  top: 10.36%;
+  right: 8.57%;
+  bottom: 8.21%;
+  left: 8.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.solarcalendarBroken {
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}

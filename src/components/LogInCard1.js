@@ -11,7 +11,7 @@ const LogInCard = () => {
         className={styles.acpFloridaChapterLogo4cLa}
         loading="eager"
         alt=""
-        src="/acp-florida-chapter-logo-4c-large-1@2x.png"
+        src="/acp-florida-chapter-logo-4c-large-11@2x.png"
       />
       <div className={styles.userImage}>
         <div className={styles.userWrapper}>

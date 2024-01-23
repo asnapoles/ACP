@@ -1,5 +1,5 @@
 import BgBlur from "../components/BgBlur";
-import LogInCard from "../components/LogInCard";
+import LogInCard from "../components/LogInCard1";
 import styles from "./Login.module.css";
 
 const Login = () => {

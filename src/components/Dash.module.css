@@ -1,0 +1,21 @@
+.textBoxIcon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+}
+.name {
+  position: relative;
+  letter-spacing: -0.33px;
+  line-height: 17.6px;
+}
+.dash {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+  text-align: left;
+  font-size: var(--font-size-lgi-2);
+  color: var(--color-gray-100);
+  font-family: var(--font-nunito);
+}
