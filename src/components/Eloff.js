@@ -7,7 +7,7 @@ const Eloff = () => {
         className={styles.vectorIcon}
         loading="eager"
         alt=""
-        src="/vector1.svg"
+        src="/vector11.svg"
       />
     </div>
   );

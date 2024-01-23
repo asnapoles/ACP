@@ -7,7 +7,7 @@ const Vector = () => {
         className={styles.componentNodeIcon}
         loading="eager"
         alt=""
-        src="/vector1.svg"
+        src="/vector11.svg"
       />
     </div>
   );

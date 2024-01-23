@@ -7,7 +7,7 @@ const Dash = () => {
         className={styles.textBoxIcon}
         loading="eager"
         alt=""
-        src="/vector.svg"
+        src="/vector1.svg"
       />
       <b className={styles.name}>Dashboard</b>
     </div>
